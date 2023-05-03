@@ -5,7 +5,7 @@ seoDescription: "Discover the differences between data science, statistics, and 
 datePublished: Wed May 03 2023 03:22:01 GMT+0000 (Coordinated Universal Time)
 cuid: clh74tw0r000a09l37znrev7v
 slug: data-science-beyond-statistics-and-analysis
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683082771035/af7527d3-5725-4e7c-8335-af802b52c0c5.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683100812572/5ff84610-e4e8-402a-81b1-9305ef285cd9.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683083211268/044e2d7b-7f38-458e-9367-17a93d22310c.png
 tags: methodology, statistics, data-science, analysis, market-basket-analysis
 
@@ -114,5 +114,3 @@ A more detailed methodology for data science includes:
 ## **Conclusion**
 
 In conclusion, **data science** is a **multidisciplinary field** that goes beyond traditional statistics and analysis. It encompasses various aspects of data analysis, with the ultimate goal of **extracting actionable insights** that can drive business value. By understanding the differences between data science, statistics, and analysis, we can better appreciate the unique contributions of data science to the modern world.
-
-Cover Image: [Business illustrations by Storyset](https://storyset.com/business)
