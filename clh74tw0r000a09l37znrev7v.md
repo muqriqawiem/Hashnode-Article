@@ -11,8 +11,6 @@ tags: methodology, statistics, data-science, analysis, market-basket-analysis
 
 ---
 
-Cover Image: [Business illustrations by Storyset](https://storyset.com/business)
-
 ## **Introduction**
 
 Data science has become a buzzword in recent years, but is it just another term for statistics or analysis? In this article, we will explore the differences between data science, statistics, and analysis, and delve into the various aspects of data science, including its methodologies and applications.
@@ -116,3 +114,5 @@ A more detailed methodology for data science includes:
 ## **Conclusion**
 
 In conclusion, **data science** is a **multidisciplinary field** that goes beyond traditional statistics and analysis. It encompasses various aspects of data analysis, with the ultimate goal of **extracting actionable insights** that can drive business value. By understanding the differences between data science, statistics, and analysis, we can better appreciate the unique contributions of data science to the modern world.
+
+Cover Image: [Business illustrations by Storyset](https://storyset.com/business)
